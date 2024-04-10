@@ -52,7 +52,7 @@ function lineageFunction() {
         //Define method to retrieve family members names//
         getFatherName: function() { return this.father.name; },
         getMotherName: function() { return this.mother.name; },
-        getChildName: function() { return this.child.name; },
+        getChildName: function() { return this.child.Madison.name; },
     };
 
     //Displays the names of the family members//
