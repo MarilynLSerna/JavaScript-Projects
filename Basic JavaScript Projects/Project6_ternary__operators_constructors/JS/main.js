@@ -59,3 +59,4 @@ function lineageFunction() {
         document.getElementById("Nested_Function").innerHTML = "Father: " + familyTree.getFatherName() +
         ", Mother: " + familyTree.getMotherName() + ", Child: " + familyTree.getChildName();
 }
+
